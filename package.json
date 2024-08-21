@@ -9,7 +9,7 @@
     "start": "npm run dev"
   },
   "dependencies": {
-    "@umijs/max": "^4.3.11",
+    "@umijs/max": "^4.3.14",
     "react-markdown": "^9.0.1"
   },
   "devDependencies": {
